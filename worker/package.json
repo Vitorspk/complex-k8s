@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "redis": "^4.6.11"
+    "redis": "^6.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
